@@ -1,0 +1,17 @@
+{
+  "name": "InsPire-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Baileys",
+    "WhatsApp Bot",
+    "bot",
+    "multidevice"
+  ],
+  "author": "CryptzX-Dev",
+  "license": "ISC",
+  "description": "WhatsApp Bot || 2024"
+}
